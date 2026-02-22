@@ -1,0 +1,3 @@
+module SpeechTranscriber {
+    header "/home/runner/work/SpeechTranscriber/SpeechTranscriber/.build/x86_64-unknown-linux-gnu/debug/SpeechTranscriber.build/include/SpeechTranscriber-Swift.h"
+}
